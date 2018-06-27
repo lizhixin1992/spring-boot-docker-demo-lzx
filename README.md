@@ -8,4 +8,6 @@
         这个会在target下创建docker文件夹，并生成相关配置
     3.启动镜像
         在cmd里面运行 docker run -p 8090:8090 -d springio/spring-boot-demo
-        端口号和镜像的名称自己配置，这样创建的容器名称是docker自己命名的，如要自定义容器名称这需要设置--name *****	
+        端口号和镜像的名称自己配置，这样创建的容器名称是docker自己命名的，如要自定义容器名称这需要设置--name *****
+        
+# 本地的docker镜像推到dockerhub上，请到 https://blog.csdn.net/qq_22985751/article/details/80826586
