@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.lzx.demo</groupId>
-  <artifactId>spring-boot-demo</artifactId>
+  <artifactId>spring-boot-docker-demo-lzx</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
@@ -15,7 +15,7 @@
     <relativePath/>
   </parent>
 
-  <name>spring-boot-demo</name>
+  <name>spring-boot-docker-demo-lzx</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -24,7 +24,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <java.version>1.8</java.version>
-    <docker.image.prefix>springio</docker.image.prefix>
+    <docker.image.prefix>lizhixin</docker.image.prefix>
   </properties>
 
   <dependencies>

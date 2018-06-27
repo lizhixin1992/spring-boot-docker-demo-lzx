@@ -18,7 +18,7 @@ public class SampleController {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(SampleController.class,"--server.port=8081");
+        SpringApplication.run(SampleController.class,"--server.port=8090");
 
     }
 }
